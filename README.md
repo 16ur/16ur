@@ -9,7 +9,7 @@
 
 <div align="center">
 
- 📚 I’m currently learning **Java, JavaScript, PHP**
+ 📚 I’m currently learning **JavaScript & PHP**
  
  </div>
 
@@ -20,7 +20,7 @@
   <h2 align="center">Languages & Frameworks</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,qt,python,html,css,bootstrap,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,bootstrap,mysql" /><br>
      <img src="https://skillicons.dev/icons?i=github,linux,bash,git,vim" /><br>
 
 </div>

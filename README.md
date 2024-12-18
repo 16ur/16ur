@@ -30,7 +30,6 @@ You'll find there, all my coding projects I made during my free time but also,
 
 ![seizure's GitHub stats](https://github-readme-stats.vercel.app/api?username=16ur&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=16ur&theme=gruvbox&border_radius=4.5)
 
 [website]: (https://axelmanguian.vercel.app/)
 

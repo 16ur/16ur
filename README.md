@@ -24,7 +24,4 @@ You'll find there, all my coding projects I made during my free time but also,
 <br />
 
 
----
-
-[website]: (https://axelmanguian.vercel.app/)
 

@@ -26,10 +26,5 @@ You'll find there, all my coding projects I made during my free time but also,
 
 ---
 
-### 📊 Stats
-
-![seizure's GitHub stats](https://github-readme-stats.vercel.app/api?username=16ur&show_icons=true&theme=gruvbox)
-
-
 [website]: (https://axelmanguian.vercel.app/)
 

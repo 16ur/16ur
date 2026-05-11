@@ -9,7 +9,7 @@
   <img
     align="center"
     width="41.8%"
-    src="https://streak-stats.demolab.com?user=16ur&hide_border=true"
+    src="https://streak-stats.demolab.com?user=16ur&card_width=600&card_height=250"
   />
 </br>
 </br>

@@ -3,20 +3,15 @@
 </div>
 
 <div align="center">
-  <strong>Full-stack Web Developer  |  Apprenticeship Free Pro  |  MSc @ Epitech </strong>
+  <strong>Full-stack developer • Free Pro apprentice • Engineering Student @ Polytech</strong>
   </br>
   </br>
   <img
     align="center"
     width="41.8%"
-    src="https://streak-stats.demolab.com?user=16ur&theme=vue&border_radius=5&border=E4E2E2"
-  />
-  <img
-    align="center"
-    width="28%"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=16ur&theme=vue"
+    src="https://streak-stats.demolab.com?user=16ur&hide_border=true"
   />
 </br>
 </br>
-  Currently building a web-app focused on helping employees identify and prevent musculoskeletal disorders through personalized assessments and actionable recommendations
+Currently building Latern - an educational platform designed to help students learn mathematical LaTeX notation through interactive exercises and guided practice.
 </div>

@@ -7,8 +7,3 @@ Currently building Latern - an educational platform designed to help students le
 </div>
 </br>
 
-<div align="center">
-  <img width="380" height="300" alt="iu_" src="https://github.com/user-attachments/assets/136d5a60-580d-4425-a2eb-594d64a7792d" />
-</div>
-  
-

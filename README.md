@@ -9,4 +9,4 @@
 Currently building Latern - an educational platform designed to help students learn mathematical LaTeX notation through interactive exercises and guided practice.
 </div>
 
-<img width="2694" height="1744" alt="oreo" src="https://github.com/user-attachments/assets/1113e5bf-fcd6-46af-a596-54f258491d3c" />
+<img width="2000" height="1200" alt="oreo" src="https://github.com/user-attachments/assets/1113e5bf-fcd6-46af-a596-54f258491d3c" />
